@@ -1,0 +1,7 @@
+var config = [];
+config["INT_API_URL"] = "http://int_url";
+config["PROD_API_URL"] = "http://prod_url";
+config["INT_LABEL"] = "int label";
+config["PROD_LABEL"] = "prod label";
+
+module.exports=config;
